@@ -75,6 +75,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\2d_TDP\Script\Appear.cs" />
+    <Compile Include="Assets\2d_TDP\Script\DialogBubble.cs" />
+    <Compile Include="Assets\2d_TDP\Script\PixelBubble.cs" />
+    <Compile Include="Assets\2d_TDP\Script\SwitchScene.cs" />
     <Compile Include="Assets\Scripts\BackgroundParallax.cs" />
     <Compile Include="Assets\Scripts\BackgroundPropSpawner.cs" />
     <Compile Include="Assets\Scripts\Bomb.cs" />
